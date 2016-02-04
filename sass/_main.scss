@@ -3,7 +3,7 @@ html{
   @include set(height, $sm-up: 100%);
   @include set(background-position, $sm-up: 50% left);
   @include set(background-size, $sm-up: cover);
-  @include set(background-image, $sm-up: url(../imgs/bernie-sanders-portrait-03-crop.jpg), $lg-l-up: url(../imgs/bernie-sanders-portrait-03.jpg));
+  @include set(background-image, $sm-up: url(../img/bernie-sanders-portrait-03-crop.jpg), $lg-l-up: url(../img/bernie-sanders-portrait-03.jpg));
   background-repeat: no-repeat;
   background-attachment: fixed;
   overflow: auto;
